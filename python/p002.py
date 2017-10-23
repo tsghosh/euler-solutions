@@ -28,6 +28,8 @@ def find_all_fibonacci_bellow_10():
 
         print new_fibonacci_num
 
+#second change our program to add all fibonacci numbers bellow 10
+
 def find_sum_of_all_fibonacci_bellow_10():
     sum = 0
 
@@ -52,6 +54,8 @@ def find_sum_of_all_fibonacci_bellow_10():
         sum = sum+new_fibonacci_num
 
     print 'Sum of all fibonacci bellow 10 :' , sum
+
+#third add the even number filter bellow 10
 
 def find_sum_of_all_even_fibonacci_bellow_10():
     sum = 0
@@ -79,6 +83,8 @@ def find_sum_of_all_even_fibonacci_bellow_10():
             sum = sum+new_fibonacci_num
 
     print 'Sum of all EVEN fibonacci bellow 10 :' , sum
+
+# Final solution our program add all even fibonacci bellow 4 million
 
 def find_sum_of_all_even_fibonacci_bellow_4_millon_start_with_1_and_2():
     sum = 0
