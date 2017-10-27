@@ -57,3 +57,4 @@ if __name__ == "__main__":
 	#compute_diff_of_squares(10)
     compute_diff_of_squares(100)
 
+
